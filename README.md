@@ -57,5 +57,5 @@ I'm passionate about transforming messy datasets into actionable insights. 📊 
 - Drop a message, send an email, or release a signal flare – I'm pretty easy to find!
 
 ## 🌐 More About Me
-- Check out my portfolio: [www.geekdevpk.com](http://www.geekdevpk.com)
+- Check out my portfolio: [Portfolio](https://junaidraz1.github.io/my-portfolio/)
 - Fluent in **English**, with elementary proficiency in **Finnish**.
