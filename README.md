@@ -3,7 +3,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![](https://visitcount.itsvg.in/api?id=junaidraz1&icon=5&color=0)](https://visitcount.itsvg.in)
 
-# 👋 Hey there, I'm Muhammad Junaid Raza!
+# 👋 Hey there, I'm Junaid Raza!
 
 Welcome to my little corner of GitHub! 🎉 If you’re looking for a developer who writes clean code (that sometimes even works), then you've hit the jackpot. 💥
 
